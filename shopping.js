@@ -79,7 +79,7 @@ let products = [
         size: 'M',
         color: 'Khaki',
         price: 2000,
-        image: '8.jpg',
+        image: '8.png',
         description: 'Good looking Khaki Slim Fit Trousers',
     },
 
