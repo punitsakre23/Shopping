@@ -62,6 +62,36 @@ let products = [
         image: 'project6.jpg',
         description: 'Good looking Stripped Shirt',
     },
+
+    {
+        id: 7,
+        name: 'Skinny Fit Low-Rise Mildly Distressed Heavy Fade Jeans',
+        size: 'S',
+        color: 'Blue',
+        price: 1500,
+        image: '7.png',
+        description: 'Good Looking Blue Skinny Fit Jeans',
+    },
+
+    {
+        id: 8,
+        name: 'Slim Fit Chinos Trousers',
+        size: 'M',
+        color: 'Khaki',
+        price: 2000,
+        image: '8.jpg',
+        description: 'Good looking Khaki Slim Fit Trousers',
+    },
+
+    {
+        id: 9,
+        name: 'Mildly Distressed Light Fade Jeans',
+        size: 'L',
+        color: 'Blue',
+        price: 2500,
+        image: '9.png',
+        description: 'Good looking Blue Mildly Distressed Jeans',
+    },
 ];
 
 cart = [];
